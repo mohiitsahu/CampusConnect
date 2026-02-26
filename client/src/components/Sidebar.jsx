@@ -74,7 +74,7 @@ export default function Sidebar({ page, setPage, user }) {
             <div className="h-9 w-9 rounded-full overflow-hidden bg-indigo-600 text-white flex items-center justify-center text-sm font-semibold">
   {user?.avatar ? (
     <img
-      src={`http://localhost:5001${user.avatar}`}
+      src={`https://campusconnect-90nf.onrender.com${user.avatar}`}
       alt="avatar"
       className="h-full w-full object-cover"
     />
