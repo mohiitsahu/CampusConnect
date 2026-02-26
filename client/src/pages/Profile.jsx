@@ -102,7 +102,7 @@ export default function Profile({ user, setUser }) {
           <div className="relative">
             {user.avatar ? (
               <img
-                src={`http://localhost:5001${user.avatar}`}
+                src={`https://campusconnect-90nf.onrender.com${user.avatar}`}
                 alt="avatar"
                 className="h-20 w-20 rounded-full object-cover"
               />
