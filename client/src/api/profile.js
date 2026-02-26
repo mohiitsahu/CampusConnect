@@ -1,5 +1,5 @@
 import axios from "axios";
-const BASE = "http://localhost:5001";
+const BASE = "https://campusconnect-90nf.onrender.com";
 
 export const updateProfile = (data, token) =>
   axios.put(`${BASE}/api/profile`, data, {
