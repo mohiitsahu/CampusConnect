@@ -4,7 +4,7 @@ import axios from "axios";
 import { getPrivateRoomId } from "../utils/getRoomId";
 import { Send, Search } from "lucide-react";
 
-const BASE = "http://localhost:5001";
+const BASE = "https://campusconnect-90nf.onrender.com";
 
 export default function DirectMessages({ user }) {
   const [users, setUsers] = useState([]);
