@@ -238,8 +238,8 @@ Protected routes expect the JWT in a `token` request header.
 
 **Mohit Sahu**
 
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [your-linkedin](https://linkedin.com/in/your-linkedin)
+- GitHub: [@mohiitsahu](https://github.com/mohiitsahu)
+- LinkedIn: [mohiitsahu7](https://www.linkedin.com/in/mohitsahu7/)
 
 ---
 
