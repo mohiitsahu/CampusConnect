@@ -110,7 +110,7 @@ CampusConnect/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/CampusConnect.git
+git clone https://github.com/mohiitsahu/CampusConnect.git
 cd CampusConnect
 ```
 
